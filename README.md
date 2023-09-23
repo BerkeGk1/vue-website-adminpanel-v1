@@ -1,3 +1,6 @@
+Live Demo: https://berkegk1.github.io/vue-website-adminpanel-v1/#/
+
+
 Admin Panel V1 🚀 ===========================================================================
 This project is a web application developed using Vue.js. Through the Admin Panel located at the /demo endpoint, you can instantly modify the content on pages, including images and texts.
 
